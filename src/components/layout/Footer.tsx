@@ -9,7 +9,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center mb-4">
               <Github className="h-8 w-8 text-blue-600 dark:text-blue-500 mr-2" />
-              <span className="text-xl font-bold">ETIP Corporation</span>
+              <span className="text-xl font-bold">ETIB Corporation</span>
             </div>
             <p className="text-gray-600 dark:text-gray-400 mb-4">
               Building innovative solutions through open source collaboration
@@ -113,7 +113,7 @@ const Footer = () => {
         
         <div className="mt-12 border-t border-gray-200 dark:border-gray-700 pt-8">
           <p className="text-sm text-gray-500 dark:text-gray-400 text-center">
-            &copy; {new Date().getFullYear()} ETIP Corporation. All rights reserved.
+            &copy; {new Date().getFullYear()} ETIB Corporation. All rights reserved.
           </p>
         </div>
       </div>

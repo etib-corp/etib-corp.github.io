@@ -28,7 +28,7 @@ const Header = () => {
           <div className="flex justify-start lg:w-0 lg:flex-1">
             <a href="#" className="flex items-center space-x-2">
               <Github className="h-8 w-8 text-blue-600 dark:text-blue-500" />
-              <span className="text-xl font-bold tracking-tight">ETIP Corp</span>
+              <span className="text-xl font-bold tracking-tight">ETIB Corp</span>
             </a>
           </div>
           
@@ -99,7 +99,7 @@ const Header = () => {
                     <div className="flex items-start justify-between">
                       <div className="flex items-center">
                         <Github className="h-8 w-8 text-blue-600 dark:text-blue-500" />
-                        <span className="ml-2 text-xl font-bold text-gray-900 dark:text-white">ETIP Corp</span>
+                        <span className="ml-2 text-xl font-bold text-gray-900 dark:text-white">ETIB Corp</span>
                       </div>
                       <div className="ml-3 h-7 flex items-center">
                         <button
